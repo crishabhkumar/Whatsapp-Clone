@@ -8,6 +8,9 @@
         <entry key="..\:/WhatsappClone/app/src/main/res/layout/activity_main.xml" value="0.25052083333333336" />
         <entry key="..\:/WhatsappClone/app/src/main/res/layout/activity_splash.xml" value="0.14447463768115942" />
         <entry key="..\:/WhatsappClone/app/src/main/res/layout/fragment_chats.xml" value="0.25052083333333336" />
+        <entry key="..\:/WhatsappClone/app/src/main/res/layout/fragment_login.xml" value="0.14447463768115942" />
+        <entry key="..\:/WhatsappClone/app/src/main/res/layout/fragment_sign_up.xml" value="0.14447463768115942" />
+        <entry key="..\:/WhatsappClone/app/src/main/res/layout/fragment_status.xml" value="0.14447463768115942" />
       </map>
     </option>
   </component>
