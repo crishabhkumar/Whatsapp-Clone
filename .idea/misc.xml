@@ -3,7 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/WhatsappClone/app/src/main/res/drawable/view_background.xml" value="0.1" />
+        <entry key="..\:/WhatsappClone/app/src/main/res/layout/activity_authentication.xml" value="0.14447463768115942" />
         <entry key="..\:/WhatsappClone/app/src/main/res/layout/activity_main.xml" value="0.25052083333333336" />
+        <entry key="..\:/WhatsappClone/app/src/main/res/layout/activity_splash.xml" value="0.14447463768115942" />
         <entry key="..\:/WhatsappClone/app/src/main/res/layout/fragment_chats.xml" value="0.25052083333333336" />
       </map>
     </option>
